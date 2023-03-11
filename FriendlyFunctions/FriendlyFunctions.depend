@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1678502220 source:c:\users\lesha\onedrive\Рабочий стол\to work\ДВФУ\Занятия\Структуры и алгоритмы компьютерной обработки данных\4lw\friendlyfunctions\main.cpp
+	<iostream>
+	"userRealisation.cpp"
+
+1678501323 c:\users\lesha\onedrive\Рабочий стол\to work\ДВФУ\Занятия\Структуры и алгоритмы компьютерной обработки данных\4lw\friendlyfunctions\userrealisation.cpp
+	<iostream>
+	"header.h"
+
+1678502827 c:\users\lesha\onedrive\Рабочий стол\to work\ДВФУ\Занятия\Структуры и алгоритмы компьютерной обработки данных\4lw\friendlyfunctions\header.h
+
+1678502102 source:c:\users\lesha\onedrive\Рабочий стол\to work\ДВФУ\Занятия\Структуры и алгоритмы компьютерной обработки данных\4lw\friendlyfunctions\main_2.cpp
+	<iostream>
+	"realisation.cpp"
+
+1678503142 c:\users\lesha\onedrive\Рабочий стол\to work\ДВФУ\Занятия\Структуры и алгоритмы компьютерной обработки данных\4lw\friendlyfunctions\realisation.cpp
+	<iostream>
+	"header.h"
+
